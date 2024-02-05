@@ -19,3 +19,4 @@ public User(String firstName, String lastName, String email,
 Implement solution using the Builder Pattern to address the issues.<br><br>
 
 ## UML Diagram:
+![Builder Pattern UML](https://github.com/brixcyver/builderPattern/assets/142380216/ee755c2f-6d57-4357-9369-e280cc942787)
